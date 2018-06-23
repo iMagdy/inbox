@@ -1,5 +1,5 @@
 {
-  "name": "bin",
+  "name": "@in1t/inbox",
   "version": "0.1.0",
   "description": "CLI email checker in terminal for gmail/gsuite",
   "main": "index.js",
