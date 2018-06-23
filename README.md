@@ -1,5 +1,11 @@
 # CLI email checker for gmail/gsuite
 
+## Not yet suitable for `npm`
+
+Although the package is available via `npm i -g @in1t/inbox`, however, this will not allow you to include your creds.
+
+@TODO: Read creds. from external JSON file.
+
 ## Features
 - Shows your inbox threads.
 - Shows messages inside each thread.
