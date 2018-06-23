@@ -1,0 +1,28 @@
+{
+  "name": "bin",
+  "version": "0.1.0",
+  "description": "CLI email checker in terminal for gmail/gsuite",
+  "main": "index.js",
+  "bin": {
+    "inbox": "index.js"
+  },
+  "license": "MIT",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iMagdy/inbox.git"
+  },
+  "keywords": [
+    "inbox",
+    "node",
+    "cli",
+    "gmail"
+  ],
+  "author": "Islam Magdy <islam@in1t.com>",
+  "homepage": "https://github.com/iMagdy/inbox.git",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "googleapis": "27",
+    "ora": "^2.1.0"
+  }
+}
